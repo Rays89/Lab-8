@@ -1,0 +1,7 @@
+c:\users\rachael\source\repos\Lab Number 8\Lab Number 8\bin\Debug\Lab Number 8.exe.config
+c:\users\rachael\source\repos\Lab Number 8\Lab Number 8\bin\Debug\Lab Number 8.exe
+c:\users\rachael\source\repos\Lab Number 8\Lab Number 8\bin\Debug\Lab Number 8.pdb
+c:\users\rachael\source\repos\Lab Number 8\Lab Number 8\obj\Debug\Lab Number 8.csproj.CoreCompileInputs.cache
+c:\users\rachael\source\repos\Lab Number 8\Lab Number 8\obj\Debug\Lab Number 8.exe
+c:\users\rachael\source\repos\Lab Number 8\Lab Number 8\obj\Debug\Lab Number 8.pdb
+c:\users\rachael\source\repos\Lab Number 8\Lab Number 8\obj\Debug\Lab Number 8.csprojResolveAssemblyReference.cache
